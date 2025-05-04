@@ -2,7 +2,8 @@
 
 Um aplicativo React Native moderno para visualização de dados do acelerômetro do dispositivo em tempo real, com interface interativa e animações responsivas.
 
-![Screenshot do aplicativo](./assets/tela.jpeg)
+
+<img src="./assets/tela.jpeg" alt="Screenshot do aplicativo" width="300" />
 
 ## 📱 Funcionalidades
 
